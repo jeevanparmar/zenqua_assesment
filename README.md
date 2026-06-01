@@ -33,14 +33,7 @@ cd <project-folder>
 npm install
 ```
 
-3. Create a `.env` file
-
-```env
-PORT=5000
-MONGO_URI=mongodb://127.0.0.1:27017/crudDB
-```
-
-4. Start the server
+3. Start the server
 
 ```bash
 npm run dev
